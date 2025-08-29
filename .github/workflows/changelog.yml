@@ -1,0 +1,32 @@
+name: Simple Changelog
+
+on:
+  push:
+    branches:
+      - main   # （当 main 分支有 push 时触发）
+
+permissions:
+  contents: write  # （允许写入仓库内容，比如提交文件）
+
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout（检出代码）
+        uses: actions/checkout@v3
+
+      - name: Generate simple changelog（生成简易日志）
+        id: changelog
+        uses: scottbrenner/generate-changelog-action@master
+
+      - name: Save changelog to file（保存日志到文件）
+        run: echo "${{ steps.changelog.outputs.changelog }}" > CHANGELOG.md
+
+      - name: Commit changelog（提交日志）
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CHANGELOG.md
+          git commit -m "docs: update changelog [skip ci]" || echo "No changes to commit"
+          git push
