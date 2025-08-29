@@ -2,7 +2,7 @@
 // @name         123Pan CV
 // @name:zh-CN   123云盘 CV
 // @namespace    https://github.com/Chumor/123PanCV
-// @version      1.0.250828.17
+// @version      1.1.250829.1
 // @description  A lightweight Tampermonkey userscript for 123Pan. Automatically saves and manages extraction codes, displays them in a table, supports one-click copy, import/export, and Tampermonkey cloud sync. File/folder names are clickable to open share links.
 // @description:zh-CN  一个适用于 123云盘 的轻量级 Tampermonkey 用户脚本：自动保存提取码，表格化管理，一键复制，支持导入/导出与 Tampermonkey 云同步，文件/文件夹名可点击跳转到分享链接。
 // @author       Chumor
