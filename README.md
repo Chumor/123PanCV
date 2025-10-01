@@ -8,8 +8,8 @@
 
 123Pan CV 是专为 123云盘设计的用户脚本，提供智能化的提取码管理解决方案。通过自动识别、保存和组织提取码，极大提升使用123云盘分享链接的效率。
 
-<img width="1260" height="2800" alt="1000035934" src="https://github.com/user-attachments/assets/2a4498ac-f629-4c1d-966f-ce6cc0f708fd" />
-<img width="1260" height="2800" alt="1000035938" src="https://github.com/user-attachments/assets/5a5003a8-9b86-4ad8-a0bd-7c94e243d461" />
+<img width="1260" height="2800" alt="1000035934" src="https://gh-proxy.com/https://github.com/Chumor/123PanCV/blob/main/123PanCV01.PNG" />
+<img width="1260" height="2800" alt="1000035938" src="https://gh-proxy.com/https://github.com/Chumor/123PanCV/blob/main/123PanCV02.PNG" />
 
 
 ## ✨ 核心功能
