@@ -6,7 +6,7 @@
 
 ## 📖 项目简介
 
-123Pan CV 是专为 123云盘设计的用户脚本，提供智能化的提取码管理解决方案。通过自动识别、保存和组织提取码，极大提升使用123云盘分享链接的效率。
+**123Pan CV** 是专为 123 云盘打造的用户脚本，提供智能提取码管理方案——自动识别、保存并归档提取码，显著提升分享链接的使用效率。
 
 <img width="1260" height="2800" alt="1000035934" src="https://cdn.jsdelivr.net/gh/Chumor/123PanCV@main/123PanCV01.PNG" />
 <img width="1260" height="2800" alt="1000035938" src="https://cdn.jsdelivr.net/gh/Chumor/123PanCV@main/123PanCV02.PNG" />
@@ -61,9 +61,9 @@
 [![ScriptCat](https://img.shields.io/badge/ScriptCat-1677ef?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAIVBMVEVMaXERltsRldsSk9oTktoRltwRltsRldsRldoSltsTn+jqqdPoAAAACXRSTlMA+pwlDOXCekqXZTw5AAAACXBIWXMAAAsTAAALEwEAmpwYAAABzklEQVR4nO2X2ZKEIAxFsxAg+f8PnkJbWyBqnOVhqvo+dUlyLMJNGgE++kVVKhyL5EJ1flrMTCiAYBIzK9NzUUQ1vEMwobVIGReSqKreIdb0FilpXMumd4h3ulqeVrOtS6eIQ7qiA6AN4COO6Q1AE6C8ATOiT2+Acg3QFbGrT/cBdS1ih9jVp7cizk6qQ0hD7JrXZgA7UefC+ZjS4qSoZh8ByFiEC9nkZDg4KbABx0dwdNI9YPYRjEa4BpS/ANQnRXQmEjhOOpcHYPyRj+CRkzwfQQo7Cc0FQNhJvo8g7iTfR/BDQEpxJzUfpaEKRSRnDStnkc6MxVTtiRNbfBkOAJ8YCYejKOYOvitC31Ccl9n7YAtmubNzqoWeFJFKnc3IcYDbSxBvR2Twu0mD8nsJtivCrU56CaJe9ifio6HmDTSAxDVYBKk8FYEpC05/4md7UJTcX2FYnviwyQzr0Au6Wvz29VtkN1Xo1UyBhlhDcABwu70uO7uZrGh5qVYL786CicpS23Q5GdGoxXAt5N23V9F8pdrS9WQcDyriIlCtn4PnYlJbxtah9KqmkY+Bl+ryTbCfSPst55t2lSq12d0uiW3ikzOAAkovfSf3o3+lL+xbQ6tlWltuAAAAAElFTkSuQmCC&logoColor=white)](https://scriptcat.org/zh-CN/script-show-page/4094)  
 [![Greasy Fork](https://img.shields.io/badge/Greasy_Fork-全球用户推荐-9f6d30?style=for-the-badge&logo=greasyfork&logoColor=white)](https://greasyfork.org/zh-CN/scripts/547543-123pan-cv)
 
+*点击上方徽章即可跳转安装页面*
 > 💡 **前提**：请先安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [ScriptCat](https://scriptcat.org/) 等用户脚本管理器。
 
-*点击上方徽章即可跳转安装页面*
 
 </div>
 
