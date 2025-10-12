@@ -58,10 +58,19 @@
 
 ### 📱 一键安装
 
-[![ScriptCat](https://img.shields.io/badge/ScriptCat-1677ef?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAIVBMVEVMaXERltsRldsSk9oTktoRltwRltsRldsRldoSltsTn+jqqdPoAAAACXRSTlMA+pwlDOXCekqXZTw5AAAACXBIWXMAAAsTAAALEwEAmpwYAAABzklEQVR4nO2X2ZKEIAxFsxAg+f8PnkJbWyBqnOVhqvo+dUlyLMJNGgE++kVVKhyL5EJ1flrMTCiAYBIzK9NzUUQ1vEMwobVIGReSqKreIdb0FilpXMumd4h3ulqeVrOtS6eIQ7qiA6AN4COO6Q1AE6C8ATOiT2+Acg3QFbGrT/cBdS1ih9jVp7cizk6qQ0hD7JrXZgA7UefC+ZjS4qSoZh8ByFiEC9nkZDg4KbABx0dwdNI9YPYRjEa4BpS/ANQnRXQmEjhOOpcHYPyRj+CRkzwfQQo7Cc0FQNhJvo8g7iTfR/BDQEpxJzUfpaEKRSRnDStnkc6MxVTtiRNbfBkOAJ8YCYejKOYOvitC31Ccl9n7YAtmubNzqoWeFJFKnc3IcYDbSxBvR2Twu0mD8nsJtivCrU56CaJe9ifio6HmDTSAxDVYBKk8FYEpC05/4md7UJTcX2FYnviwyQzr0Au6Wvz29VtkN1Xo1UyBhlhDcABwu70uO7uZrGh5qVYL786CicpS23Q5GdGoxXAt5N23V9F8pdrS9WQcDyriIlCtn4PnYlJbxtah9KqmkY+Bl+ryTbCfSPst55t2lSq12d0uiW3ikzOAAkovfSf3o3+lL+xbQ6tlWltuAAAAAElFTkSuQmCC&logoColor=white)](https://scriptcat.org/zh-CN/script-show-page/4094)  
-[![Greasy Fork](https://img.shields.io/badge/Greasy_Fork-全球用户推荐-9f6d30?style=for-the-badge&logo=greasyfork&logoColor=white)](https://greasyfork.org/zh-CN/scripts/547543-123pan-cv)
+<p align="center">
+  <a href="https://scriptcat.org/zh-CN/script-show-page/4094">
+    <img src="https://img.shields.io/badge/ScriptCat-安装-1677ef?style=for-the-badge&logo=image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAIVBMVEVMaXERltsRldsSk9oTktoRltwRltsRldsRldoSltsTn+jqqdPoAAAACXRSTlMA+pwlDOXCekqXZTw5AAAACXBIWXMAAAsTAAALEwEAmpwYAAABzklEQVR4nO2X2ZKEIAxFsxAg+f8PnkJbWyBqnOVhqvo+dUlyLMJNGgE++kVVKhyL5EJ1flrMTCiAYBIzK9NzUUQ1vEMwobVIGReSqKreIdb0FilpXMumd4h3ulqeVrOtS6eIQ7qiA6AN4COO6Q1AE6C8ATOiT2+Acg3QFbGrT/cBdS1ih9jVp7cizk6qQ0hD7JrXZgA7UefC+ZjS4qSoZh8ByFiEC9nkZDg4KbABx0dwdNI9YPYRjEa4BpS/ANQnRXQmEjhOOpcHYPyRj+CRkzwfQQo7Cc0FQNhJvo8g7iTfR/BDQEpxJzUfpaEKRSRnDStnkc6MxVTtiRNbfBkOAJ8YCYejKOYOvitC31Ccl9n7YAtmubNzqoWeFJFKnc3IcYDbSxBvR2Twu0mD8nsJtivCrU56CaJe9ifio6HmDTSAxDVYBKk8FYEpC05/4md7UJTcX2FYnviwyQzr0Au6Wvz29VtkN1Xo1UyBhlhDcABwu70uO7uZrGh5qVYL786CicpS23Q5GdGoxXAt5N23V9F8pdrS9WQcDyriIlCtn4PnYlJbxtah9KqmkY+Bl+ryTbCfSPst55t2lSq12d0uiW3ikzOAAkovfSf3o3+lL+xbQ6tlWltuAAAAAElFTkSuQmCC&logoColor=white" alt="ScriptCat">
+  </a>
+</p>
+<p align="center">
+  <a href="https://greasyfork.org/zh-CN/scripts/547543-123pan-cv">
+    <img src="https://img.shields.io/badge/Greasy%20Fork-安装-9f6d30?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Greasy Fork">
+  </a>
+</p>
 
 *点击上方徽章即可跳转安装页面*
+
 > 💡 **前提**：请先安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [ScriptCat](https://scriptcat.org/) 等用户脚本管理器。
 
 
